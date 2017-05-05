@@ -11,7 +11,8 @@ __Reservation(Employee) Password:__ : olivercompany<br/>
 
 ###SQL script can be found in /src/main/sql
 ###Team & Members:
-&nbsp;&nbsp; **Database Team:**
+&nbsp;&nbsp; 
+**Database Team:**
  <ol>
     <li>Andriana Webster 25540216</li>
     <li>Jeremy Brown 27515421</li>
